@@ -1,5 +1,5 @@
 let pi = 3.14;
-let r = 6.378e6;
+var r = 6.378e6;
 let c = 2*pi*r;
 let a = 4*pi*r^2;
 let v = 4/3*pi*r^3;
